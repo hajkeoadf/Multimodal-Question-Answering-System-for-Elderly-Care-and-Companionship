@@ -10,9 +10,10 @@ Based on a transformer architecture, KAMM maps images and text into feature Spac
 ## Setup
 > pip install -r requirements.txt
 
-## Dataset
+## Dataset & API
 - [ScienceQA](https://github.com/lupantech/ScienceQA)
 - [FairytaleQA](https://github.com/WorkInTheDark/FairytaleQA_QAG_System)
+- [ERNIE](https://github.com/PaddlePaddle/ERNIE)
 
 ## Demo
 ![demoShow](https://github.com/hajkeoadf/Multimodal-Question-Answering-System-for-Elderly-Care-and-Companionship/blob/main/images/demoShow.png)
